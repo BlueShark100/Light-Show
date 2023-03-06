@@ -28,3 +28,9 @@ Closer(feat. Jennie A.) - Lemaitre
 Ecstasy of Soul - Zeds Dead & GRiZ
 
 Helios - Ekali & SLUMBERJACK
+
+Someone Else - Sullivan King
+
+The Last Goodbye - ODESZA
+
+Stay For It(feat. Miguel) - RL Grime
