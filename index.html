@@ -80,6 +80,7 @@
         html {
             background-color: black;
             overflow: hidden;
+            cursor: none;
         }
 
         @keyframes fadeout {
@@ -93,7 +94,7 @@
         var mode = 0;
         window.onload = function(){ 
 
-            alert('Press all the keys to turn off the lights. For more information on how to use go to my GitHub => https://github.com/BlueShark100/Light-Show <= Enjoy!');            
+            alert('Press all the keys to turn off the lights. Keep in mind your cursor will disapear automatically on the site so to find it again just move it up and out of the page. For more information on how to use go to my GitHub => https://github.com/BlueShark100/Light-Show <= Enjoy!');            
 
             window.addEventListener("keyup", function(e) {
                 if ((e.keyCode == 188) && (mode == 0)) {
