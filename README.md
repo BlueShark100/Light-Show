@@ -3,8 +3,7 @@ Improvised light show using your keybaord as input. Sometimes I wonder exactly w
 
 ## How to Run
 **After downloading the files ensure that they all stay _within_ the main folder.** 
-This is because the html file references the images locally within the folder
-You can also find a working version of this on [**this website**](https://thats-lit.netlify.app/)
+This is because the html file references the images locally within the folder. Then you can simply open the index.html file using your browser to run the code. You can also find a working version of this on [**this website**](https://thats-lit.netlify.app/)
 
 ## How to Use
 Each set of lights corresponds to a row on your keyboard. There are 4 sets of lights for 4 rows on your keybaord. Each row will have 4 keys on the left side and right side of the specified center key/s.
