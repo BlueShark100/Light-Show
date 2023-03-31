@@ -22,7 +22,7 @@ This row is above the second row with the center keys "5" and "6". Active keys: 
 ###### Fourth Row | Colored Bars
 This row is at the bottom, below the main row with the center keys "V" "B". Active keys: **zxcv bnm,** . Note the Comma is an included key within the set
 
-## Some of My favourite songs to play with
+## Some of My favorite songs to play with
 Closer(feat. Jennie A.) - Lemaitre
 
 Ecstasy of Soul - Zeds Dead & GRiZ
