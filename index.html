@@ -161,9 +161,9 @@
             window.onkeydown = function(gfg){ 
 
                 //effect keys
-                if((gfg.keyCode === g_key) && (mode == 0)){  
+                if((gfg.keyCode === g_key) && (mode == 0)){                // 1 if 0 
                     mode = 1;
-                } else if ((gfg.keyCode === g_key) && (mode == 1)) {
+                } else if ((gfg.keyCode === g_key) && (mode == 1)) {                    // 0 if 1 again
                     mode = 0;
                 }; 
 
@@ -268,8 +268,6 @@
                     if(gfg.keyCode === v_key){
                         AL1.style="opacity:100%";
                     };
-                } else { // =========== ELSE ========= for the fade out thing, I should really wite this code better
-                    
                 };
             }; 
             window.onkeyup = function(gfg){ //       ======== ON KEY UP ========      for isntant lighting
@@ -375,7 +373,7 @@
                     if(gfg.keyCode === v_key){
                         AL1.style="opacity:0%";
                     };
-                } else {
+                } else if (mode == 1){
                     //bars
                     if(gfg.keyCode === five_key){ 
                         BL1.style="opacity:0%";
